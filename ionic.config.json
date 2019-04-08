@@ -1,5 +1,7 @@
 {
   "name": "offlaneApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
